@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Balatro';
+  src: url('./balatro.otf.woff2/balatro.otf.woff2') format('woff2'),
+       url('./balatro.otf.woff/balatro.otf.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
